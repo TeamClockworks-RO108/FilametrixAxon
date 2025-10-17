@@ -17,3 +17,4 @@ This project is a redesign of this [servo-actuated depressor](https://www.printa
 | M3 Nut | 2 |
 | M2 BHCS 8mm screw | 2 |
 
+Alternatively, the AGFRC models A20CLS A20BHS, A20CLM and A20BHM can be used. 
