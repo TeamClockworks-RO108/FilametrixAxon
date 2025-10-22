@@ -10,8 +10,9 @@ This project is a redesign of this [servo-actuated depressor](https://www.printa
 | Part | Quantity |
 | --- | --- |
 | Axon Micro | 1 |
-| Axon B25T Servo horn with appropiate screw | 1 |
-| M3 BHCS or SHCS 8mm screw | 2 |
+| Axon B25T Servo horn | 1 |
+| M2.5 6mm screw (any head type) for servo horn | 1 |
+| M4 BHCS or SHCS 8mm screw | 2 |
 | M3 BHCS or SHCS 16mm screw | 2 |
 | M3 BHCS or SHCS 20mm+ screw | 1 |
 | M3 Nut | 2 |
