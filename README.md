@@ -1,5 +1,8 @@
 # FilametrixAxon
 
+[![blazingly fast](https://blazingly.fast/api/badge.svg?repo=TeamClockworks-RO108%2FFilametrixAxon)](https://blazingly.fast)
+
+
 This project is a redesign of this [servo-actuated depressor](https://www.printables.com/model/1097275-voron-24r2-filametrix-filament-cutter-gantry-servo). We found that the SG90/MG90 servos break easily from chamber heat, so we modified it to work with a better micro servo. 
 
 | ![FrontClosed](Images/FrontClosed.png) | ![FrontOpen](Images/FrontOpen.png) |
